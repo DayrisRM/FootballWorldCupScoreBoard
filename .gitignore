@@ -1,0 +1,16 @@
+*.user
+project.lock.json
+/FootballWorldCupScoreBoard.*/bin/
+/FootballWorldCupScoreBoard.*/obj/
+/.vs/
+/FootballWorldCupScoreBoard/.vs/FootballWorldCupScoreBoard/v16/.suo
+/FootballWorldCupScoreBoard/FootballWorldCupScoreBoard/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs
+/FootballWorldCupScoreBoard/FootballWorldCupScoreBoard/obj/Debug/netstandard2.0/FootballWorldCupScoreBoard.AssemblyInfo.cs
+/FootballWorldCupScoreBoard/FootballWorldCupScoreBoard/obj/Debug/netstandard2.0/FootballWorldCupScoreBoard.AssemblyInfoInputs.cache
+/FootballWorldCupScoreBoard/FootballWorldCupScoreBoard/obj/Debug/netstandard2.0/FootballWorldCupScoreBoard.assets.cache
+/FootballWorldCupScoreBoard/FootballWorldCupScoreBoard/obj/Debug/netstandard2.0/FootballWorldCupScoreBoard.csprojAssemblyReference.cache
+/FootballWorldCupScoreBoard/FootballWorldCupScoreBoard/obj/FootballWorldCupScoreBoard.csproj.nuget.dgspec.json
+/FootballWorldCupScoreBoard/FootballWorldCupScoreBoard/obj/FootballWorldCupScoreBoard.csproj.nuget.g.props
+/FootballWorldCupScoreBoard/FootballWorldCupScoreBoard/obj/FootballWorldCupScoreBoard.csproj.nuget.g.targets
+/FootballWorldCupScoreBoard/FootballWorldCupScoreBoard/obj/project.assets.json
+/FootballWorldCupScoreBoard/FootballWorldCupScoreBoard/obj/project.nuget.cache
