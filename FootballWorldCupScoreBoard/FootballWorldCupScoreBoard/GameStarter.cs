@@ -21,7 +21,7 @@ namespace FootballWorldCupScoreBoard
             if (homeTeam == null) throw new ArgumentNullException(nameof(homeTeam));
             if (awayTeam == null) throw new ArgumentNullException(nameof(awayTeam));
 
-            var gameId = ScoreBoard.Games.Count + 1; //TODO: MUST be entity id from DB
+            var gameId = ScoreBoard.Games.Count + 1; //TODO: MUST be id from DB
 
             var game = new Game()
             {

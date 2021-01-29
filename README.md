@@ -30,3 +30,20 @@ Football World Cup Score Board that shows matches and scores.
 	3. Mexico 0 - Canada 5
 	4. Argentina 3 - Australia 1
 	5. Germany 2 - France 2
+	
+
+## Implementation decisions
+1. **Start a game.**   
+   
+   I have added an **Id** field. This field should be the identifier in the database. In this case I calculate the value using the length of the list.
+   
+3. **Update score.**
+
+	I have added the possibility to update homeTeamScore and awayTeamScore interchangeably. In a real match you can update only one value or two values.
+	
+4. **Get a summary of games by total score.**
+
+	For this functionality I have used the **Id** field to do the second sorting.
+	
+	
+   
